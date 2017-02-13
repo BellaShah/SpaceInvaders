@@ -1,0 +1,13 @@
+Project Description
+
+Final Project: Space Invaders
+
+Team Members - Sana Noorani, Ryan Williamson, Bella Shah
+
+Overview:
+
+Sana - I worked on the sound implementation that involved created a toggle that is pressed by the user with the mouse to turn the sound on and off. In addition, when the laser is emitted, it makes a sound. When the UFO disk hits the user, it makes a crashing sound. I had to strategically place the sounds where they would make the most sense based on what is happening in the game. I also created the code for the tank and the lasers that are emitted from the tank. It was a bit challenging to photoshop a tank image and then align a rectangle as well as the laser to make the entire apparatus look more realistic. 
+
+Ryan - 
+
+Bella - 
